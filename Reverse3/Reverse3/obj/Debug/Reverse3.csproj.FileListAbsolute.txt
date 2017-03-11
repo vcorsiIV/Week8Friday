@@ -1,0 +1,6 @@
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\InClassExercises\Reverse3\Reverse3\bin\Debug\Reverse3.exe.config
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\InClassExercises\Reverse3\Reverse3\bin\Debug\Reverse3.exe
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\InClassExercises\Reverse3\Reverse3\bin\Debug\Reverse3.pdb
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\InClassExercises\Reverse3\Reverse3\obj\Debug\Reverse3.csprojResolveAssemblyReference.cache
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\InClassExercises\Reverse3\Reverse3\obj\Debug\Reverse3.exe
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\InClassExercises\Reverse3\Reverse3\obj\Debug\Reverse3.pdb

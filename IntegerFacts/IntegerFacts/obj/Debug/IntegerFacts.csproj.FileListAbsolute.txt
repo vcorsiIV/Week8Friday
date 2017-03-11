@@ -1,0 +1,6 @@
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\InClassExercises\IntegerFacts\IntegerFacts\bin\Debug\IntegerFacts.exe.config
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\InClassExercises\IntegerFacts\IntegerFacts\bin\Debug\IntegerFacts.exe
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\InClassExercises\IntegerFacts\IntegerFacts\bin\Debug\IntegerFacts.pdb
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\InClassExercises\IntegerFacts\IntegerFacts\obj\Debug\IntegerFacts.csprojResolveAssemblyReference.cache
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\InClassExercises\IntegerFacts\IntegerFacts\obj\Debug\IntegerFacts.exe
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\InClassExercises\IntegerFacts\IntegerFacts\obj\Debug\IntegerFacts.pdb
